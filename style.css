@@ -5,7 +5,7 @@ ol {
   }
 
 html {
-    background: rgba(9, 206, 209, 0.494);
+    background: #C9D8EB;
 }
 h1, h2 {
     color: rgb(115, 0, 222);
@@ -16,6 +16,7 @@ h1, h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+     background: rgba(9, 206, 209, 0.494);
 }
 
 img {
