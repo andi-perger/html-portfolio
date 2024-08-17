@@ -14,9 +14,10 @@ h1, h2 {
 .main {
     text-align: center;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-     background: rgba(9, 206, 209, 0.494);
+    margin-left: 25%;
+    background: rgba(9, 206, 209, 0.494);
+    padding: 20px
+    width: 50%
 }
 
 img {
