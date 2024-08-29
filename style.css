@@ -9,7 +9,7 @@ html {
 }
 
 .header {
-  text-align: center;
+  text-align: left;
   display: block;
   margin-left: 25%;
   background: #b2ccee;
@@ -19,7 +19,7 @@ html {
 }
 
 .skills, .sections {
-  text-align: center;
+  text-align: left;
   display: block;
   margin-left: 25%;
   background: #b2ccee;
