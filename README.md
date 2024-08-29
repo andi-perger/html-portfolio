@@ -1,1 +1,1 @@
-CapStone project
+Professional resume of Andi Perger
