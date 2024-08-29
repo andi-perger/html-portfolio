@@ -29,14 +29,14 @@ html {
   width: 50%;
 }
 
-.sections {
-  font-size: 16pt;
-  text-align: center;
-}
-
 h1, h2, {
   color: #000000;
   text-align: left;
+}
+
+.sections {
+  font-size: 16pt;
+  text-align: center;
 }
 
 h3, h4, h5 {
