@@ -42,7 +42,7 @@ h1, h2, {
   text-align: center;
 }
 
-a {
+.btn {
   display: block;
   width: 150px;
   height: 40px;
