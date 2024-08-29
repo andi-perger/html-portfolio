@@ -29,17 +29,13 @@ html {
   width: 50%;
 }
 
-.skills {
-  text-align: left;
-}
-
 .sections {
   font-size: 16pt;
 }
 
 h1, h2, {
   color: #000000;
-  text-align: center;
+  text-align: left;
 }
 
 h3, h4, h5 {
